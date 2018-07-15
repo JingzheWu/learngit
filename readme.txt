@@ -5,4 +5,5 @@ this is master branch
 & in both branch
 | in which branch?
 
-something in learnGit dev
+
+something in  conflict fixed learnGit dev
