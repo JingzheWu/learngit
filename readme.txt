@@ -7,3 +7,4 @@ this is master branch
 
 
 something in  conflict fixed learnGit dev
+something2 in another dev
