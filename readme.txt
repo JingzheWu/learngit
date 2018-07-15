@@ -7,4 +7,4 @@ this is master branch
 
 
 something in  conflict fixed learnGit dev
-something2 in learnGit dev
+something2 in conflict fixed learnGit dev
