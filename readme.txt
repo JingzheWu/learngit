@@ -10,3 +10,4 @@ something in  conflict fixed learnGit dev
 something2 in conflict fixed learnGit dev
 add aaa in learnGit dev
 add aaa in read1 learnGit dev
+add bbb in read1 another dev
